@@ -1,3 +1,4 @@
+# Symbol Recognition Application
 
 This project consists of two Python scripts that work together to create a machine learning-based symbol recognition application. The application generates a synthetic dataset of arrow symbols, trains a convolutional neural network (CNN) to recognize them, and provides a graphical user interface (GUI) for users to draw and predict symbols.
 
