@@ -1,4 +1,3 @@
-![Imagem do WhatsApp de 2025-04-28 à(s) 12 42 23_7d32d888](https://github.com/user-attachments/assets/fa44e1f6-df44-49a7-b70c-ced83736333b)# Symbol Recognition Application
 
 This project consists of two Python scripts that work together to create a machine learning-based symbol recognition application. The application generates a synthetic dataset of arrow symbols, trains a convolutional neural network (CNN) to recognize them, and provides a graphical user interface (GUI) for users to draw and predict symbols.
 
